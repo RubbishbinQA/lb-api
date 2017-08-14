@@ -4,5 +4,15 @@
     "localStorage": "",
     "file": "my_data.json",
     "connector": "memory"
+  },
+  "mongodb": {
+    "host": "${MONGO_HOST}",
+    "port": "${MONGO_PORT}",
+    "url": "",
+    "database": "${MONGO_DB}",
+    "password": "${MONGO_PSWD}",
+    "name": "mongodb",
+    "user": "felipe",
+    "connector": "mongodb"
   }
 }
