@@ -16,5 +16,13 @@
   "Product": {
     "dataSource": "mongodb",
     "public": true
+  },
+  "Company": {
+    "dataSource": "mongodb",
+    "public": true
+  },
+  "Account": {
+    "dataSource": "mongodb",
+    "public": true
   }
 }
