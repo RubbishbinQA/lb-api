@@ -14,15 +14,15 @@
     ]
   },
   "Product": {
-    "dataSource": "mongodb",
+    "dataSource": "mlab",
     "public": true
   },
   "Company": {
-    "dataSource": "mongodb",
+    "dataSource": "mlab",
     "public": true
   },
   "Account": {
-    "dataSource": "mongodb",
+    "dataSource": "mlab",
     "public": true
   }
 }
